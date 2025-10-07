@@ -1,11 +1,17 @@
-# 🚀 Mini Job Portal App
+# Mini Job Portal App
 
 A Flutter-based job portal application with authentication, job listing, and save functionality.
 
-## 📱 Download APK
-👉 [Download APK](your-link-here)
+## 📥 Download APK
+
+You can download the latest APK from Google Drive:
+
+👉 [Download APK](https://drive.google.com/drive/folders/1g7-HvXIET2rv_tvDSK6TjOfD5VpQIYfP?usp=sharing)
+
+*Ensure that the Google Drive folder permission is set to "Anyone with the link → Viewer" for public access.*
 
 ## ✨ Features
+
 - ✅ Email/Password Authentication (Local Storage)
 - ✅ Job List from REST API Integration
 - ✅ Job Details Page with full information
@@ -13,18 +19,18 @@ A Flutter-based job portal application with authentication, job listing, and sav
 - ✅ View Saved Jobs
 - ✅ User Profile Page
 
-## 🛠️ Technologies Used
+## 🛠 Tech Stack
+
 - Flutter SDK
-- Provider (State Management)
-- SQLite (Database)
-- Shared Preferences
-- HTTP Package
+- Dart
+- SQLite
 - REST API Integration
+- Hive (for local storage)
 
-## 📸 Screenshots
-(Add app screenshots here if possible)
+## 🚀 Installation
 
-## 🚀 How to Run
-```bash
-flutter pub get
-flutter run
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Tarek-Or-Rashid/jobportal.git
+   cd jobportal
