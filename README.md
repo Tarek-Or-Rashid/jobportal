@@ -1,16 +1,30 @@
-# mini_job_portal
+# 🚀 Mini Job Portal App
 
-A new Flutter project.
+A Flutter-based job portal application with authentication, job listing, and save functionality.
 
-## Getting Started
+## 📱 Download APK
+👉 [Download APK](your-link-here)
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- ✅ Email/Password Authentication (Local Storage)
+- ✅ Job List from REST API Integration
+- ✅ Job Details Page with full information
+- ✅ Save/Apply to Jobs (SQLite Database)
+- ✅ View Saved Jobs
+- ✅ User Profile Page
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
+- Flutter SDK
+- Provider (State Management)
+- SQLite (Database)
+- Shared Preferences
+- HTTP Package
+- REST API Integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+(Add app screenshots here if possible)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+```bash
+flutter pub get
+flutter run
