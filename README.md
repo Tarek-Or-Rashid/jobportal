@@ -8,7 +8,6 @@ You can download the latest APK from Google Drive:
 
 👉 [Download APK](https://drive.google.com/drive/folders/1g7-HvXIET2rv_tvDSK6TjOfD5VpQIYfP?usp=sharing)
 
-*Ensure that the Google Drive folder permission is set to "Anyone with the link → Viewer" for public access.*
 
 ## ✨ Features
 
